@@ -1,2 +1,2 @@
 # RetiLogiche2021
-Project of teaching Reti Logiche at PoliMi
+30 cum laude Project of teaching Reti Logiche at PoliMi
